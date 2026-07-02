@@ -1,0 +1,70 @@
+[
+  {
+    "id": "policy_001",
+    "category": "chronic_illness_reimbursement",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 1,
+    "text": "------------text regarding the policy-------------"
+  },
+  {
+    "id": "policy_006",
+    "category": "medical_advance",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 1,
+    "text": "------------text regarding the policy-------------"
+  },
+  {
+    "id": "policy_010",
+    "category": "disallowance_policy",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 2,
+    "text": "------------text regarding the policy-------------"
+  },
+  {
+    "id": "policy_012",
+    "category": "bill_processing",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 2,
+    "text": "------------text regarding the policy-------------"
+  },
+
+  {
+    "id": "policy_016",
+    "category": "signature_rules",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 3,
+    "text": "------------text regarding the policy-------------"
+  },
+  {
+    "id": "policy_020",
+    "category": "online_submission",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 3,
+    "text": "------------text regarding the policy-------------"
+  },
+  {
+    "id": "doc_001",
+    "category": "documents_outpatient",
+    "source": "HVF Medical Policy Checklist - 17.03.2025",
+    "page": 5,
+    "text": "------------text regarding the Document-------------"
+  },
+ 
+  {
+    "id": "rule_001",
+    "category": "validation",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 2,
+    "text": "------------text regarding the Rule-------------"
+  },
+  
+  
+  {
+    "id": "ref_001",
+    "category": "reference",
+    "source": "HVF Medical Policy - Meeting Minutes 17.03.2025",
+    "page": 7,
+    "text": "------------text regarding the Reference-------------"
+  }
+  
+]
